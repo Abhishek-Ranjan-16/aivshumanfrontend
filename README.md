@@ -7,3 +7,5 @@ npm i
 npm run dev
 ```
 Hooray! Now your frontend is running.
+### 
+Github Repo for the backend: https://github.com/Abhishek-Ranjan-16/aivshumanbackend
